@@ -22,7 +22,4 @@ We welcome contributions from the community to improve DoVote. To contribute, pl
 - Make your changes and commit them to your fork.
 - Submit a pull request with a detailed description of your changes.
 
-Contact
-For any inquiries or further information, please contact email@example.com.
-
 Join us in embracing the future of voting with DoVote. Your voice matters, and with DoVote, it's never been easier to make it heard. Download now and be part of the democratic revolution! 🗳️✨
