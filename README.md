@@ -5,7 +5,7 @@ DoVote is a modern application designed to revolutionize the voting experience. 
 - User-Friendly Interface: Intuitive design makes voting easy for all users.
 - Transparency: Real-time updates on candidate votes ensure transparency.
 - Accessibility: Accessible to all voters, regardless of location or ability.
-- Voter Authentication: Voters are authenticated thriugh their CNICs.
+- Voter Authentication: Voters are authenticated through their CNICs.
 
 ## Getting Started
 To get started with DoVote, follow these steps:
